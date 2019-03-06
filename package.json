@@ -1,0 +1,22 @@
+{
+  "name": "gulun",
+  "version": "0.0.1",
+  "description": "frist gulun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suixin0309/xin-vue-first.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "xin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suixin0309/xin-vue-first/issues"
+  },
+  "homepage": "https://github.com/suixin0309/xin-vue-first#readme"
+}
